@@ -1,8 +1,8 @@
 ## Personal Portfolio
 
-This is my personal site which is made with HTML,CSS ,JS and React
+This is my personal site which is made with HTML,CSS ,JS and React.
 
-You can see its' live version right here:https://gpapakon.netlify.app/
+You can see its' live version right here: https://gpapakon.netlify.app/
 
 Or you can run it,using a terminal with this commant: npm run dev
 
